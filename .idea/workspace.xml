@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Hospital Managment System:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="004e192e-2402-4107-84c3-bd5103b527a5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hospital Managment System.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hospital_Managment_System/AddPatient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hospital_Managment_System/Ambulance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hospital_Managment_System/Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hospital_Managment_System/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hospital_Managment_System/EmployeeInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hospital_Managment_System/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hospital_Managment_System/PatientDischage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hospital_Managment_System/PatientInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hospital_Managment_System/Reception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hospital_Managment_System/RoomDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hospital_Managment_System/SearchRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hospital_Managment_System/Splash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hospital_Managment_System/UpdateDetails.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2oo9UaSLnGaxumvHLU3fxHpFHxI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AddPatient (1).executor": "Run",
+    "Application.AddPatient (2).executor": "Run",
+    "Application.AddPatient.executor": "Run",
+    "Application.Ambulance.executor": "Run",
+    "Application.Department.executor": "Run",
+    "Application.EmployeeInfo.executor": "Run",
+    "Application.Login.executor": "Run",
+    "Application.PatientDischage.executor": "Run",
+    "Application.PatientInfo.executor": "Run",
+    "Application.Reception (1).executor": "Run",
+    "Application.Reception (2).executor": "Run",
+    "Application.Reception.executor": "Run",
+    "Application.RoomDetails.executor": "Run",
+    "Application.SearchRoom.executor": "Run",
+    "Application.Splash.executor": "Run",
+    "Application.UpdateDetails.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/JAVA PROJECT'S/Hospital Managment System",
+    "onboarding.tips.debug.path": "D:/JAVA PROJECT'S/Hospital Managment System/src/Main.java",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Splash">
+    <configuration name="Reception (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hospital_Managment_System.Reception" />
+      <module name="Hospital Managment System" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Hospital_Managment_System.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Reception" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hospital_Managment_System.Reception" />
+      <module name="Hospital Managment System" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Hospital_Managment_System.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RoomDetails" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hospital_Managment_System.RoomDetails" />
+      <module name="Hospital Managment System" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Hospital_Managment_System.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Splash" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hospital_Managment_System.Splash" />
+      <module name="Hospital Managment System" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Hospital_Managment_System.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UpdateDetails" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hospital_Managment_System.UpdateDetails" />
+      <module name="Hospital Managment System" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Hospital_Managment_System.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Splash" />
+        <item itemvalue="Application.Reception" />
+        <item itemvalue="Application.RoomDetails" />
+        <item itemvalue="Application.Reception (1)" />
+        <item itemvalue="Application.UpdateDetails" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="004e192e-2402-4107-84c3-bd5103b527a5" name="Changes" comment="" />
+      <created>1731525080954</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731525080954</updated>
+    </task>
+    <servers />
+  </component>
+</project>
